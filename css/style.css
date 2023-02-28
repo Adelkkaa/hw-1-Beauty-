@@ -1,0 +1,31 @@
+@import url("./blocks/_head.css");
+@import url("./blocks/_promo.css");
+@import url("./blocks/_presentation.css");
+@import url("./blocks/_goods.css");
+@import url("./blocks/_forms.css");
+@import url("./blocks/_footer.css");
+@import url("./blocks/_media.css");
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    
+}
+
+
+
+
+
+
+
+
+
+
